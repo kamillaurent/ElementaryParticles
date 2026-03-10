@@ -14,4 +14,4 @@ $m_i = 0.5  m_e  10^{d_i}$ [GeV].
 ## Linear Mass Dependence
 Since there are around 5 orders of magnitude from electron mass to top mass, we cannot put the linear dependence alltogether in one Blender file, otherwise it craches. We split the linear dependence of particle masses in 3 files:
 
-The file `lin_electron--muon.blend` contains particles from electron to muon with diameter defined as $d_i = 0.031  \frac{m_i}{m_e} \, [m]$
+The file `electron--muon-linscale.blend` contains particles from electron to muon with diameter defined as $d_i = 0.031  \frac{m_i}{m_e} \, [m]$
