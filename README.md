@@ -4,7 +4,7 @@ This repository contains Blender files with representation of Standard Model ele
 # Using the Particles
 The use of these animations is free and not subject to copyright. Please cite the original work (https://youtu.be/ZXSdU6KqpJo) when using these animations.
 
-If you want to use these animations, but don't want to use blender, [here is a drive directory with all the animations.](https://zoom.us/j/93740493841) 
+If you want to use these animations, but don't want to use blender, [here is a drive directory with all the animations.](https://drive.google.com/drive/folders/1QVfMY_n7-HfzBSCFr8NbvohI6ZqV5q-6?usp=drive_link) 
 
 ## Logaritmic Mass Dependence
 
